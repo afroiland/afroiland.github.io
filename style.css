@@ -2,6 +2,8 @@
 body {
   width: 900px;
   margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
   font-family: 'Didot', sans-serif;
   background-image: url('http://themes.googleusercontent.com/image?id=1SBilrALlXIPLRAelrnhYjgFyYa09ZeL8cdktIYuaRwQ3kEvcEX-Xz1NjKkrLjtsPxmc7');
   background-position: center top;
