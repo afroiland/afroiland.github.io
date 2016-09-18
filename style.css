@@ -11,6 +11,11 @@ body {
   margin: 20;
 }
 
+.profilePic {
+  max-height: 50px;
+  max-width: 50px;
+}
+
 .personalInfo {
   text-align: right;
   font-weight: 100;
