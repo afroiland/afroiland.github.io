@@ -15,7 +15,7 @@ body {
   display: block;
   margin-left: 20px;
   float: left;
-  transform: rotate(15deg);
+  transform: rotate(-10deg);
 }
 
 .personalInfo {
