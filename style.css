@@ -15,6 +15,7 @@ body {
   display: block;
   margin-top: 25px;
   margin-left: 20px;
+  float: left;
 }
 
 .personalInfo {
