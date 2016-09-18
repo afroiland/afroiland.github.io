@@ -20,7 +20,7 @@ body {
   margin-left: 20px;
   float: left;
   transform: rotate(-10deg);
-  box-shadow: 15px 15px 25px #808080;
+  box-shadow: 15px 15px 25px #111;
 }
 
 .personalInfo {
@@ -32,7 +32,7 @@ body {
 
 .name {
   margin-bottom: 30px;
-  text-shadow: 5px 5px 5px #FFF;
+  text-shadow: 5px 5px 5px #808080;
 }
 
 .education {
