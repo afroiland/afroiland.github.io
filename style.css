@@ -10,6 +10,7 @@ body {
   background-size: cover;
   margin: 20;
   border-style: solid;
+  padding: 35px;
 }
 
 .profilePic {
