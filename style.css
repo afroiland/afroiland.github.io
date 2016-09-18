@@ -29,5 +29,13 @@ body {
 }
 
 .education {
-  line-height: 20px;
+  line-height: 25px;
+}
+
+.workExperience {
+  line-height: 25px;
+}
+
+.relevantExperience {
+  line-height: 25px;
 }
