@@ -32,6 +32,7 @@ body {
 
 .name {
   margin-bottom: 30px;
+  text-shadow: 5px 5px 5px #111;
 }
 
 .education {
