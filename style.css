@@ -13,8 +13,8 @@ body {
 
 .profilePic {
   display: block;
-  max-height: 50px;
-  max-width: 50px;
+  margin-top: 25px;
+  margin-left: 20px;
 }
 
 .personalInfo {
